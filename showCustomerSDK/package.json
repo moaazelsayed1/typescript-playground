@@ -1,0 +1,17 @@
+{
+  "name": "createcustomersdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tactful/erp-sdk-typescript": "^3.8.0",
+    "@types/config": "^3.3.0",
+    "config": "^3.3.9"
+  }
+}
